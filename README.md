@@ -9,21 +9,21 @@
 </p>
 
 <pre>
- <p align="center">Saudações, meu nome é Gustavo, mais conhecido na Web
- como DefaultCrypter ou ~Pirata
+ <p align="center"><strong>Saudações, meu nome é Gustavo, mais conhecido na Web
+ como DefaultCrypter ou ~Pirata</strong>
  
- [+] Programador desde os 12 Anos de Idade 💻
+ <strong>[+]</strong> Programador desde os 12 Anos de Idade 💻
  </p>
 
 </pre>
 
 <p align="center"> 
-  🔭 17 Anos - Futuro Pentester TI e Analista de Sistema<br />
-  🪓 Me dedico em Python, Bash Script(Linux), Batch Script(Win), C++ e HTML<br />
-  🌱 Diariamente estudo o Kali Linux e faço testes...<br />
-  💬 E-mail: ERROR!!!<br />
-  😄 Pronouns: flBpcmF0YQ== <br />
-  📚 Study reposity: https://github.com/defaultcrypter?tab=repositories<br />
+  🔭 <strong>17 Anos - Futuro Pentester TI e Analista de Sistema<br /></strong>
+  🪓 <strong>Me dedico em Python, Bash Script(Linux), Batch Script(Win), C++ e HTML<br /></strong>
+  🌱 <strong>Diariamente estudo o Kali Linux e faço testes...<br /></strong>
+  💬 <strong>E-mail:</strong> ERROR!!!<br />
+  😄 <strong>Pronouns:</strong> flBpcmF0YQ== <br />
+  📚 <strong>Study reposity:</strong> https://github.com/defaultcrypter?tab=repositories<br />
 </p>
 
 <br />
