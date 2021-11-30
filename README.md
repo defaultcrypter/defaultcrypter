@@ -1,6 +1,6 @@
 <h1 align="center">Olá DEVs 🥷</center></h1>
 <div align="center">
- <img height="180em" src="https://cio.com.br/wp-content/uploads/2020/08/hacker-vulnerabilidades-seguranca.jpg"/>
+ <img height="230em" src="https://hidstuff.files.wordpress.com/2014/06/imag0547.jpg"/>
 </div>
 
 <p align="center">
@@ -22,8 +22,8 @@
 <p align="center"> 
   🔭 <strong>17 Anos - Futuro Pentester TI e Analista de Sistema<br /></strong>
   🪓 <strong>Me dedico em Python, Bash Script(Linux), Batch Script(Win), C++ e HTML<br /></strong>
-  🌱 <strong>Diariamente estudo o Kali Linux e faço testes...<br /></strong>
-  💬 <strong>E-mail:</strong> ERROR!!!<br />
+  🌱 <strong>Diariamente estudo sempre o Kali Linux e faço testes...<br /></strong>
+  💬 <strong>E-mail:</strong> ERROR!!! FuckYourBruteForce XD<br />
   😄 <strong>Pronouns:</strong> flBpcmF0YQ== <br />
   📚 <strong>Study reposity:</strong> https://github.com/defaultcrypter?tab=repositories<br />
 </p>
