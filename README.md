@@ -1,6 +1,6 @@
 <h1 align="center">Olá DEVs 🥷</center></h1>
 <div align="center">
- <img height="270em" src="https://hidstuff.files.wordpress.com/2014/06/imag0547.jpg"/>
+ <img height="230em" src="https://hidstuff.files.wordpress.com/2014/06/imag0547.jpg"/>
 </div>
 
 
