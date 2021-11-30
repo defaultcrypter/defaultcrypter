@@ -1,7 +1,11 @@
 <h1 align="center">Olá DEVs 🥷</center></h1>
+<div align="center">
+ <img height="180em" src="https://cio.com.br/wp-content/uploads/2020/08/hacker-vulnerabilidades-seguranca.jpg"/>
+</div>
+ 
  <div align="center">
-  <a href="https://github.com/AlyssonRhuan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyssonRhuan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/defaultcrypter">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=defaultcrypter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </div>
   <div style="display: inline_block"><br>
 </div>
