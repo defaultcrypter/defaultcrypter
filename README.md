@@ -11,7 +11,7 @@
 </p>
 
 <pre>
- <p align="center"><strong>Saudações, meu nome é Gustavo, mais conhecido na Web
+ <p align="center" style="font-size: 40px;"><strong>Saudações, meu nome é Gustavo, mais conhecido na Web
  como DefaultCrypter ou ~Pirata</strong>
  
  <strong>[+]</strong> Programador desde os 12 Anos de Idade 💻
