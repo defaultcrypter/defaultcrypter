@@ -11,7 +11,6 @@
 <pre>
  <p align="center">Saudações, meu nome é Gustavo, mais conhecido na Web
  como DefaultCrypter ou ~Pirata</p>
- 
  <p align="center">Programador desde os 12 Anos de Idade</p>
 </pre>
 
