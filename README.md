@@ -4,8 +4,10 @@
 </div>
 
 <p align="center">
+ <br>
  <a href="https://www.instagram.com/gusta_do_bailao/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.instagram.com/gusta_do_bailao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </br>
 </p>
 
 <pre>
